@@ -35,7 +35,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.KalkulatorSederhanaWhenKt">
+  <component name="RunManager" selected="Kotlin.For_loopKt">
+    <configuration name="For_loopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_loopKt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KalkulatorSederhanaPercabanganKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KalkulatorSederhanaPercabanganKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -45,13 +52,6 @@
     </configuration>
     <configuration name="KalkulatorSederhanaWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KalkulatorSederhanaWhenKt" />
-      <module name="PemrogramanKotlinLanjut" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Percabangan1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Percabangan1Kt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.For_loopKt" />
         <item itemvalue="Kotlin.KalkulatorSederhanaWhenKt" />
         <item itemvalue="Kotlin.WhenKt" />
         <item itemvalue="Kotlin.KalkulatorSederhanaPercabanganKt" />
         <item itemvalue="Kotlin.Percabangan2Kt" />
-        <item itemvalue="Kotlin.Percabangan1Kt" />
       </list>
     </recent_temporary>
   </component>
