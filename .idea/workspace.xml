@@ -36,7 +36,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ExceptionHandlingKt">
+  <component name="RunManager" selected="Kotlin.MathKt">
     <configuration name="ElvisOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ElvisOperatorKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -46,6 +46,13 @@
     </configuration>
     <configuration name="ExceptionHandlingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExceptionHandlingKt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MathKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,20 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SafetyNullOperator__Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SafetyNullOperator__Kt" />
-      <module name="PemrogramanKotlinLanjut" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MathKt" />
         <item itemvalue="Kotlin.ExceptionHandlingKt" />
         <item itemvalue="Kotlin.ElvisOperatorKt" />
         <item itemvalue="Kotlin.SafeCallsKt" />
         <item itemvalue="Kotlin.PemeriksaanKondisiNullKt" />
-        <item itemvalue="Kotlin.SafetyNullOperator__Kt" />
       </list>
     </recent_temporary>
   </component>
