@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="add ElvisOperator.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExceptionHandling.kt" afterDir="false" />
+    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="add Math.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LuasKelilingLingkaran.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.MathKt">
+  <component name="RunManager" selected="Kotlin.LuasKelilingLingkaranKt">
     <configuration name="ElvisOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ElvisOperatorKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -51,15 +51,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MathKt" />
+    <configuration name="LuasKelilingLingkaranKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LuasKelilingLingkaranKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PemeriksaanKondisiNullKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PemeriksaanKondisiNullKt" />
+    <configuration name="MathKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MathKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LuasKelilingLingkaranKt" />
         <item itemvalue="Kotlin.MathKt" />
         <item itemvalue="Kotlin.ExceptionHandlingKt" />
         <item itemvalue="Kotlin.ElvisOperatorKt" />
         <item itemvalue="Kotlin.SafeCallsKt" />
-        <item itemvalue="Kotlin.PemeriksaanKondisiNullKt" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +343,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726487901533</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="add ExceptionHandling.kt">
+      <created>1726488092657</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1726488092657</updated>
+    </task>
+    <task id="LOCAL-00038" summary="add Math.kt">
+      <created>1726488462196</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1726488462196</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -358,8 +372,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add mutableListOf.kt" />
-    <MESSAGE value="Add arrayListOf.kt" />
     <MESSAGE value="Add Set.kt" />
     <MESSAGE value="Add Map.kt" />
     <MESSAGE value="Add Ranges.kt" />
@@ -383,7 +395,9 @@
     <MESSAGE value="program untuk pemeriksaan kondisi null PemeriksaanKondisiNull.kt" />
     <MESSAGE value="program untuk pemanggilan yang aman SafeCalls.kt" />
     <MESSAGE value="add ElvisOperator.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ElvisOperator.kt" />
+    <MESSAGE value="add ExceptionHandling.kt" />
+    <MESSAGE value="add Math.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Math.kt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
