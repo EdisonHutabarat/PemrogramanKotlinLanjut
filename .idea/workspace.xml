@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="Menggunakan pair sebagai nilai kembali add FungsiLambdas3.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiLambdas3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="Argumen default fungsi add ArgumenDefault.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/EkspresiLambdas.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ArgumenDefaultKt">
+  <component name="RunManager" selected="Kotlin.EkspresiLambdasKt">
     <configuration name="ArgumenDefaultKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArgumenDefaultKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -45,8 +44,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FungsiLambdas1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FungsiLambdas1Kt" />
+    <configuration name="EkspresiLambdasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EkspresiLambdasKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.EkspresiLambdasKt" />
         <item itemvalue="Kotlin.ArgumenDefaultKt" />
         <item itemvalue="Kotlin.SingleExpressionKt" />
         <item itemvalue="Kotlin.FungsiLambdas3Kt" />
         <item itemvalue="Kotlin.FungsiLambdas2Kt" />
-        <item itemvalue="Kotlin.FungsiLambdas1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +392,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726488825963</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Fungsi Ekspresi Tunggal add SingleExpression.kt">
+      <created>1726489049907</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1726489049907</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Argumen default fungsi add ArgumenDefault.kt">
+      <created>1726489157857</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1726489157857</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -408,8 +421,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Kalkulator sederhana menggunakan percabangan if-else if" />
-    <MESSAGE value="Kalkulator sederhana menggunakan percabangan when When.kt" />
     <MESSAGE value="Kalkulator sederhana menggunakan percabangan when KalkulatorSederhanaWhen.kt" />
     <MESSAGE value="program perulangan menggunakan for-loop Add For-loop.kt" />
     <MESSAGE value="Penerapan For-loop dalam Tabel Perkalian Add For-loop2.kt" />
@@ -433,7 +444,9 @@
     <MESSAGE value="Fungsi tanpa nilai kembali add FungsiLambdas1.kt" />
     <MESSAGE value="Fungsi dengan nilai kembali add FungsiLambdas2.kt" />
     <MESSAGE value="Menggunakan pair sebagai nilai kembali add FungsiLambdas3.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menggunakan pair sebagai nilai kembali add FungsiLambdas3.kt" />
+    <MESSAGE value="Fungsi Ekspresi Tunggal add SingleExpression.kt" />
+    <MESSAGE value="Argumen default fungsi add ArgumenDefault.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Argumen default fungsi add ArgumenDefault.kt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
