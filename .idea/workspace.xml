@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="program perulangan menggunakan for-loop Add For-loop.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/For-loop2.kt" afterDir="false" />
+    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="Penerapan For-loop dalam Kalkulator Eksponensial Add For-loop3.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/While-loop.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.For_loop3Kt">
+  <component name="RunManager" selected="Kotlin.While_loopKt">
     <configuration name="For_loop2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="For_loop2Kt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -64,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhenKt" />
+    <configuration name="While_loopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="While_loopKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.While_loopKt" />
         <item itemvalue="Kotlin.For_loop3Kt" />
         <item itemvalue="Kotlin.For_loop2Kt" />
         <item itemvalue="Kotlin.For_loopKt" />
         <item itemvalue="Kotlin.KalkulatorSederhanaWhenKt" />
-        <item itemvalue="Kotlin.WhenKt" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +230,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726485801949</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Penerapan For-loop dalam Tabel Perkalian Add For-loop2.kt">
+      <created>1726485957223</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1726485957223</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Penerapan For-loop dalam Kalkulator Eksponensial Add For-loop3.kt">
+      <created>1726486100984</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1726486100984</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,7 +278,9 @@
     <MESSAGE value="Kalkulator sederhana menggunakan percabangan when When.kt" />
     <MESSAGE value="Kalkulator sederhana menggunakan percabangan when KalkulatorSederhanaWhen.kt" />
     <MESSAGE value="program perulangan menggunakan for-loop Add For-loop.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="program perulangan menggunakan for-loop Add For-loop.kt" />
+    <MESSAGE value="Penerapan For-loop dalam Tabel Perkalian Add For-loop2.kt" />
+    <MESSAGE value="Penerapan For-loop dalam Kalkulator Eksponensial Add For-loop3.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Penerapan For-loop dalam Kalkulator Eksponensial Add For-loop3.kt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
