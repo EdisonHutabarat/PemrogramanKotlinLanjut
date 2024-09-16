@@ -35,7 +35,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.BreakContinueKt">
+  <component name="RunManager" selected="Kotlin.ReturnKt">
     <configuration name="BreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakContinueKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -43,15 +43,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For_loop2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For_loop2Kt" />
+    <configuration name="For_loop3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_loop3Kt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For_loop3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For_loop3Kt" />
+    <configuration name="ReturnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReturnKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ReturnKt" />
         <item itemvalue="Kotlin.BreakContinueKt" />
         <item itemvalue="Kotlin.While_loop2Kt" />
         <item itemvalue="Kotlin.While_loopKt" />
         <item itemvalue="Kotlin.For_loop3Kt" />
-        <item itemvalue="Kotlin.For_loop2Kt" />
       </list>
     </recent_temporary>
   </component>
