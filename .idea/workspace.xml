@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="program untuk memanggil variabel dengan nilai null dengan aman dengan menambahkan operator !! add SafetyNullOperator!!.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PemeriksaanKondisiNull.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SafetyNullOperator!!.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/SafetyNullOperator!!.kt" afterDir="false" />
+    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="add ElvisOperator.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExceptionHandling.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,14 +28,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.ElvisOperatorKt">
+}]]></component>
+  <component name="RunManager" selected="Kotlin.ExceptionHandlingKt">
     <configuration name="ElvisOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ElvisOperatorKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -45,8 +44,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullSafetyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NullSafetyKt" />
+    <configuration name="ExceptionHandlingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandlingKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ExceptionHandlingKt" />
         <item itemvalue="Kotlin.ElvisOperatorKt" />
         <item itemvalue="Kotlin.SafeCallsKt" />
         <item itemvalue="Kotlin.PemeriksaanKondisiNullKt" />
         <item itemvalue="Kotlin.SafetyNullOperator__Kt" />
-        <item itemvalue="Kotlin.NullSafetyKt" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +308,42 @@
       <option name="project" value="LOCAL" />
       <updated>1726487566210</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="program untuk memanggil variabel dengan nilai null dengan aman dengan menambahkan operator !! add SafetyNullOperator!!.kt">
+      <created>1726487702577</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1726487702577</updated>
+    </task>
+    <task id="LOCAL-00033" summary="program untuk pemeriksaan kondisi null PemeriksaanKondisiNull.kt">
+      <created>1726487744729</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1726487744729</updated>
+    </task>
+    <task id="LOCAL-00034" summary="program untuk pemanggilan yang aman SafeCalls.kt">
+      <created>1726487833087</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1726487833087</updated>
+    </task>
+    <task id="LOCAL-00035" summary="program untuk pemanggilan yang aman SafeCalls.kt">
+      <created>1726487846287</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1726487846287</updated>
+    </task>
+    <task id="LOCAL-00036" summary="add ElvisOperator.kt">
+      <created>1726487901533</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1726487901533</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -324,9 +358,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add MultidimensiArray.kt" />
-    <MESSAGE value="Add Collection.kt" />
-    <MESSAGE value="Add listOf.kt" />
     <MESSAGE value="Add mutableListOf.kt" />
     <MESSAGE value="Add arrayListOf.kt" />
     <MESSAGE value="Add Set.kt" />
@@ -349,7 +380,10 @@
     <MESSAGE value="program pemberian nilai null yang diizinkan dan kesalahan nya add NullSafety.kt" />
     <MESSAGE value="program pemberian nilai null yang diizinkan add NullSafety.kt" />
     <MESSAGE value="program untuk memanggil variabel dengan nilai null dengan aman dengan menambahkan operator !! add SafetyNullOperator!!.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="program untuk memanggil variabel dengan nilai null dengan aman dengan menambahkan operator !! add SafetyNullOperator!!.kt" />
+    <MESSAGE value="program untuk pemeriksaan kondisi null PemeriksaanKondisiNull.kt" />
+    <MESSAGE value="program untuk pemanggilan yang aman SafeCalls.kt" />
+    <MESSAGE value="add ElvisOperator.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ElvisOperator.kt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
