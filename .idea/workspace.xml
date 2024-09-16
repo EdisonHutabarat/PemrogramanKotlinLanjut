@@ -37,9 +37,9 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.SingleExpressionKt">
-    <configuration name="AkarKuadratKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AkarKuadratKt" />
+  <component name="RunManager" selected="Kotlin.ArgumenDefaultKt">
+    <configuration name="ArgumenDefaultKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArgumenDefaultKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArgumenDefaultKt" />
         <item itemvalue="Kotlin.SingleExpressionKt" />
         <item itemvalue="Kotlin.FungsiLambdas3Kt" />
         <item itemvalue="Kotlin.FungsiLambdas2Kt" />
         <item itemvalue="Kotlin.FungsiLambdas1Kt" />
-        <item itemvalue="Kotlin.AkarKuadratKt" />
       </list>
     </recent_temporary>
   </component>
