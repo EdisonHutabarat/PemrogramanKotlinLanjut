@@ -37,9 +37,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Safe_CallsKt">
-    <configuration name="BreakContinue_for_loopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakContinue_for_loopKt" />
+  <component name="RunManager" selected="Kotlin.ElvisOperatorKt">
+    <configuration name="ElvisOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ElvisOperatorKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Safe_CallsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Safe_CallsKt" />
+    <configuration name="SafeCallsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SafeCallsKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Safe_CallsKt" />
+        <item itemvalue="Kotlin.ElvisOperatorKt" />
+        <item itemvalue="Kotlin.SafeCallsKt" />
         <item itemvalue="Kotlin.PemeriksaanKondisiNullKt" />
         <item itemvalue="Kotlin.SafetyNullOperator__Kt" />
         <item itemvalue="Kotlin.NullSafetyKt" />
-        <item itemvalue="Kotlin.BreakContinue_for_loopKt" />
       </list>
     </recent_temporary>
   </component>
