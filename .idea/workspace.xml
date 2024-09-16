@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="Kalkulator sederhana menggunakan percabangan if-else if">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/When.kt" afterDir="false" />
+    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="program perulangan menggunakan for-loop Add For-loop.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/For-loop2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.For_loopKt">
+  <component name="RunManager" selected="Kotlin.For_loop2Kt">
+    <configuration name="For_loop2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_loop2Kt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="For_loopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="For_loopKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -57,13 +64,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Percabangan2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Percabangan2Kt" />
-      <module name="PemrogramanKotlinLanjut" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WhenKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.For_loop2Kt" />
         <item itemvalue="Kotlin.For_loopKt" />
         <item itemvalue="Kotlin.KalkulatorSederhanaWhenKt" />
         <item itemvalue="Kotlin.WhenKt" />
         <item itemvalue="Kotlin.KalkulatorSederhanaPercabanganKt" />
-        <item itemvalue="Kotlin.Percabangan2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +209,28 @@
       <option name="project" value="LOCAL" />
       <updated>1726485482678</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Kalkulator sederhana menggunakan percabangan when When.kt">
+      <created>1726485556972</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1726485556972</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Kalkulator sederhana menggunakan percabangan when KalkulatorSederhanaWhen.kt">
+      <created>1726485671668</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1726485671668</updated>
+    </task>
+    <task id="LOCAL-00020" summary="program perulangan menggunakan for-loop Add For-loop.kt">
+      <created>1726485801949</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1726485801949</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,7 +261,10 @@
     <MESSAGE value="Contoh percabangan IF, IF-ELSE, IF-ELSE IF Add Percabangan1.kt" />
     <MESSAGE value="Contoh ke 2 percabangan IF, IF-ELSE, IF-ELSE IF Add Percabangan2.kt" />
     <MESSAGE value="Kalkulator sederhana menggunakan percabangan if-else if" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kalkulator sederhana menggunakan percabangan if-else if" />
+    <MESSAGE value="Kalkulator sederhana menggunakan percabangan when When.kt" />
+    <MESSAGE value="Kalkulator sederhana menggunakan percabangan when KalkulatorSederhanaWhen.kt" />
+    <MESSAGE value="program perulangan menggunakan for-loop Add For-loop.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="program perulangan menggunakan for-loop Add For-loop.kt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
