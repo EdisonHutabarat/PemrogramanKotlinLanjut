@@ -35,7 +35,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.For_loop2Kt">
+  <component name="RunManager" selected="Kotlin.For_loop3Kt">
     <configuration name="For_loop2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="For_loop2Kt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -43,15 +43,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For_loopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For_loopKt" />
+    <configuration name="For_loop3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_loop3Kt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KalkulatorSederhanaPercabanganKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KalkulatorSederhanaPercabanganKt" />
+    <configuration name="For_loopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_loopKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.For_loop3Kt" />
         <item itemvalue="Kotlin.For_loop2Kt" />
         <item itemvalue="Kotlin.For_loopKt" />
         <item itemvalue="Kotlin.KalkulatorSederhanaWhenKt" />
         <item itemvalue="Kotlin.WhenKt" />
-        <item itemvalue="Kotlin.KalkulatorSederhanaPercabanganKt" />
       </list>
     </recent_temporary>
   </component>
