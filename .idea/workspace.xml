@@ -35,7 +35,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.While_loopKt">
+  <component name="RunManager" selected="Kotlin.While_loop2Kt">
     <configuration name="For_loop2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="For_loop2Kt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -57,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KalkulatorSederhanaWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KalkulatorSederhanaWhenKt" />
+    <configuration name="While_loop2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="While_loop2Kt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.While_loop2Kt" />
         <item itemvalue="Kotlin.While_loopKt" />
         <item itemvalue="Kotlin.For_loop3Kt" />
         <item itemvalue="Kotlin.For_loop2Kt" />
         <item itemvalue="Kotlin.For_loopKt" />
-        <item itemvalue="Kotlin.KalkulatorSederhanaWhenKt" />
       </list>
     </recent_temporary>
   </component>
