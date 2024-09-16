@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="add Math.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LuasKelilingLingkaran.kt" afterDir="false" />
+    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="Menggunakan pair sebagai nilai kembali add FungsiLambdas3.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiLambdas3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.FungsiLambdas3Kt">
+  <component name="RunManager" selected="Kotlin.SingleExpressionKt">
     <configuration name="AkarKuadratKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AkarKuadratKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -65,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LuasKelilingLingkaranKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LuasKelilingLingkaranKt" />
+    <configuration name="SingleExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingleExpressionKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SingleExpressionKt" />
         <item itemvalue="Kotlin.FungsiLambdas3Kt" />
         <item itemvalue="Kotlin.FungsiLambdas2Kt" />
         <item itemvalue="Kotlin.FungsiLambdas1Kt" />
         <item itemvalue="Kotlin.AkarKuadratKt" />
-        <item itemvalue="Kotlin.LuasKelilingLingkaranKt" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +358,42 @@
       <option name="project" value="LOCAL" />
       <updated>1726488462196</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Menghitung luas dan keliling lingkaran add LuasKelilingLingkaran.kt">
+      <created>1726488532099</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1726488532099</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Menghitung akar kuadrat add AkarKuadrat.kt">
+      <created>1726488600023</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1726488600023</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Fungsi tanpa nilai kembali add FungsiLambdas1.kt">
+      <created>1726488682799</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1726488682799</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Fungsi dengan nilai kembali add FungsiLambdas2.kt">
+      <created>1726488752486</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1726488752486</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Menggunakan pair sebagai nilai kembali add FungsiLambdas3.kt">
+      <created>1726488825963</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1726488825963</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -372,11 +408,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Set.kt" />
-    <MESSAGE value="Add Map.kt" />
-    <MESSAGE value="Add Ranges.kt" />
-    <MESSAGE value="Contoh percabangan IF, IF-ELSE, IF-ELSE IF Add Percabangan1.kt" />
-    <MESSAGE value="Contoh ke 2 percabangan IF, IF-ELSE, IF-ELSE IF Add Percabangan2.kt" />
     <MESSAGE value="Kalkulator sederhana menggunakan percabangan if-else if" />
     <MESSAGE value="Kalkulator sederhana menggunakan percabangan when When.kt" />
     <MESSAGE value="Kalkulator sederhana menggunakan percabangan when KalkulatorSederhanaWhen.kt" />
@@ -397,7 +428,12 @@
     <MESSAGE value="add ElvisOperator.kt" />
     <MESSAGE value="add ExceptionHandling.kt" />
     <MESSAGE value="add Math.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Math.kt" />
+    <MESSAGE value="Menghitung luas dan keliling lingkaran add LuasKelilingLingkaran.kt" />
+    <MESSAGE value="Menghitung akar kuadrat add AkarKuadrat.kt" />
+    <MESSAGE value="Fungsi tanpa nilai kembali add FungsiLambdas1.kt" />
+    <MESSAGE value="Fungsi dengan nilai kembali add FungsiLambdas2.kt" />
+    <MESSAGE value="Menggunakan pair sebagai nilai kembali add FungsiLambdas3.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menggunakan pair sebagai nilai kembali add FungsiLambdas3.kt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
