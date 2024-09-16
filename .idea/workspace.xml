@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="Penerapan For-loop dalam Kalkulator Eksponensial Add For-loop3.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/While-loop.kt" afterDir="false" />
+    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="Penerapan while-loop dalam kalkulator sederhana add While-loop2.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BreakContinue.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.While_loop2Kt">
+  <component name="RunManager" selected="Kotlin.BreakContinueKt">
+    <configuration name="BreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakContinueKt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="For_loop2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="For_loop2Kt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -45,13 +52,6 @@
     </configuration>
     <configuration name="For_loop3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="For_loop3Kt" />
-      <module name="PemrogramanKotlinLanjut" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="For_loopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For_loopKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BreakContinueKt" />
         <item itemvalue="Kotlin.While_loop2Kt" />
         <item itemvalue="Kotlin.While_loopKt" />
         <item itemvalue="Kotlin.For_loop3Kt" />
         <item itemvalue="Kotlin.For_loop2Kt" />
-        <item itemvalue="Kotlin.For_loopKt" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +244,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726486100984</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Program While dan do-while loop add While-loop.kt">
+      <created>1726486235422</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1726486235422</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Penerapan while-loop dalam kalkulator sederhana add While-loop2.kt">
+      <created>1726486373610</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1726486373610</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,7 +294,9 @@
     <MESSAGE value="program perulangan menggunakan for-loop Add For-loop.kt" />
     <MESSAGE value="Penerapan For-loop dalam Tabel Perkalian Add For-loop2.kt" />
     <MESSAGE value="Penerapan For-loop dalam Kalkulator Eksponensial Add For-loop3.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Penerapan For-loop dalam Kalkulator Eksponensial Add For-loop3.kt" />
+    <MESSAGE value="Program While dan do-while loop add While-loop.kt" />
+    <MESSAGE value="Penerapan while-loop dalam kalkulator sederhana add While-loop2.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Penerapan while-loop dalam kalkulator sederhana add While-loop2.kt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
