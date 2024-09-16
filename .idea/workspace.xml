@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="program pemberian nilai null yang diizinkan add NullSafety.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SafetyNullOperator!!.kt" afterDir="false" />
+    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="program untuk memanggil variabel dengan nilai null dengan aman dengan menambahkan operator !! add SafetyNullOperator!!.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PemeriksaanKondisiNull.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SafetyNullOperator!!.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/SafetyNullOperator!!.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,14 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.SafetyNullOperator__Kt">
-    <configuration name="BreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakContinueKt" />
-      <module name="PemrogramanKotlinLanjut" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.PemeriksaanKondisiNullKt">
     <configuration name="BreakContinue_for_loopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakContinue_for_loopKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -53,6 +47,13 @@
     </configuration>
     <configuration name="NullSafetyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NullSafetyKt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PemeriksaanKondisiNullKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PemeriksaanKondisiNullKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PemeriksaanKondisiNullKt" />
         <item itemvalue="Kotlin.SafetyNullOperator__Kt" />
         <item itemvalue="Kotlin.NullSafetyKt" />
         <item itemvalue="Kotlin.BreakContinue_for_loopKt" />
         <item itemvalue="Kotlin.ReturnKt" />
-        <item itemvalue="Kotlin.BreakContinueKt" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726487157479</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="program untuk memanggil variabel dengan nilai null dengan aman dengan menambahkan operator !! add SafetyNullOperator!!.kt">
+      <created>1726487566210</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1726487566210</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,7 +324,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add 2DimensiArray.kt" />
     <MESSAGE value="Add MultidimensiArray.kt" />
     <MESSAGE value="Add Collection.kt" />
     <MESSAGE value="Add listOf.kt" />
@@ -341,7 +348,8 @@
     <MESSAGE value="program break dan continue label pada sebuah perulangan for-loop add BreakContinue_for-loop.kt" />
     <MESSAGE value="program pemberian nilai null yang diizinkan dan kesalahan nya add NullSafety.kt" />
     <MESSAGE value="program pemberian nilai null yang diizinkan add NullSafety.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="program pemberian nilai null yang diizinkan add NullSafety.kt" />
+    <MESSAGE value="program untuk memanggil variabel dengan nilai null dengan aman dengan menambahkan operator !! add SafetyNullOperator!!.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="program untuk memanggil variabel dengan nilai null dengan aman dengan menambahkan operator !! add SafetyNullOperator!!.kt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
