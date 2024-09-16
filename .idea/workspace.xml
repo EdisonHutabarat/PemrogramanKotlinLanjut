@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="Add mutableListOf.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/arrayListOf.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="Add Ranges.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Percabangan1.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.RangesKt">
+  <component name="RunManager" selected="Kotlin.Percabangan1Kt">
     <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListOfKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -51,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MutableListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MutableListOfKt" />
+    <configuration name="Percabangan1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Percabangan1Kt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Percabangan1Kt" />
         <item itemvalue="Kotlin.RangesKt" />
         <item itemvalue="Kotlin.MapKt" />
         <item itemvalue="Kotlin.SetKt" />
         <item itemvalue="Kotlin.ArrayListOfKt" />
-        <item itemvalue="Kotlin.MutableListOfKt" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +160,35 @@
       <option name="project" value="LOCAL" />
       <updated>1726484691954</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add arrayListOf.kt">
+      <created>1726484793069</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726484793069</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add Set.kt">
+      <created>1726484870783</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726484870783</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add Map.kt">
+      <created>1726484941704</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726484941704</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add Ranges.kt">
+      <created>1726485065845</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1726485065845</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,7 +212,11 @@
     <MESSAGE value="Add Collection.kt" />
     <MESSAGE value="Add listOf.kt" />
     <MESSAGE value="Add mutableListOf.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add mutableListOf.kt" />
+    <MESSAGE value="Add arrayListOf.kt" />
+    <MESSAGE value="Add Set.kt" />
+    <MESSAGE value="Add Map.kt" />
+    <MESSAGE value="Add Ranges.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Ranges.kt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
