@@ -35,14 +35,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Percabangan1Kt">
-    <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListOfKt" />
-      <module name="PemrogramanKotlinLanjut" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Percabangan2Kt">
     <configuration name="MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MapKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -52,6 +45,13 @@
     </configuration>
     <configuration name="Percabangan1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Percabangan1Kt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Percabangan2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Percabangan2Kt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Percabangan2Kt" />
         <item itemvalue="Kotlin.Percabangan1Kt" />
         <item itemvalue="Kotlin.RangesKt" />
         <item itemvalue="Kotlin.MapKt" />
         <item itemvalue="Kotlin.SetKt" />
-        <item itemvalue="Kotlin.ArrayListOfKt" />
       </list>
     </recent_temporary>
   </component>
