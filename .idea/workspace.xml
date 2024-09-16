@@ -36,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.SetKt">
+  <component name="RunManager" selected="Kotlin.MapKt">
     <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListOfKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -44,15 +44,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionKt" />
+    <configuration name="ListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListOfKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListOfKt" />
+    <configuration name="MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MapKt" />
         <item itemvalue="Kotlin.SetKt" />
         <item itemvalue="Kotlin.ArrayListOfKt" />
         <item itemvalue="Kotlin.MutableListOfKt" />
         <item itemvalue="Kotlin.ListOfKt" />
-        <item itemvalue="Kotlin.CollectionKt" />
       </list>
     </recent_temporary>
   </component>
