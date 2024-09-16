@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="Add Array.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TemplateArray.kt" afterDir="false" />
+    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="Add PrimitiveArray.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MethodArray.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +36,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.PrimitiveArrayKt">
+  <component name="RunManager" selected="Kotlin.MethodArrayKt">
     <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayKt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodArrayKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,6 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MethodArrayKt" />
         <item itemvalue="Kotlin.PrimitiveArrayKt" />
         <item itemvalue="Kotlin.TemplateArrayKt" />
         <item itemvalue="Kotlin.ArrayKt" />
@@ -89,7 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725944372782</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Array.kt">
+      <created>1726483201676</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726483201676</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add PrimitiveArray.kt">
+      <created>1726483427519</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726483427519</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,7 +128,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Stater Project" />
     <MESSAGE value="Add Array.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Array.kt" />
+    <MESSAGE value="Add PrimitiveArray.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PrimitiveArray.kt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
