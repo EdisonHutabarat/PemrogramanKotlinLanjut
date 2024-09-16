@@ -36,7 +36,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.AkarKuadratKt">
+  <component name="RunManager" selected="Kotlin.FungsiLambdas1Kt">
     <configuration name="AkarKuadratKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AkarKuadratKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -44,15 +44,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElvisOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ElvisOperatorKt" />
+    <configuration name="ExceptionHandlingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandlingKt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandlingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandlingKt" />
+    <configuration name="FungsiLambdas1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsiLambdas1Kt" />
       <module name="PemrogramanKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FungsiLambdas1Kt" />
         <item itemvalue="Kotlin.AkarKuadratKt" />
         <item itemvalue="Kotlin.LuasKelilingLingkaranKt" />
         <item itemvalue="Kotlin.MathKt" />
         <item itemvalue="Kotlin.ExceptionHandlingKt" />
-        <item itemvalue="Kotlin.ElvisOperatorKt" />
       </list>
     </recent_temporary>
   </component>
