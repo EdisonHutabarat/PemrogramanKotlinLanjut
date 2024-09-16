@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="Add Collection.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/listOf.kt" afterDir="false" />
+    <list default="true" id="c563acc4-b7da-4eaf-a64e-0a2a5a9fa5ac" name="Changes" comment="Add mutableListOf.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/arrayListOf.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.MutableListOfKt">
+  <component name="RunManager" selected="Kotlin.ArrayListOfKt">
+    <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListOfKt" />
+      <module name="PemrogramanKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CollectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CollectionKt" />
       <module name="PemrogramanKotlinLanjut" />
@@ -65,20 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2DimensiArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_2DimensiArrayKt" />
-      <module name="PemrogramanKotlinLanjut" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayListOfKt" />
         <item itemvalue="Kotlin.MutableListOfKt" />
         <item itemvalue="Kotlin.ListOfKt" />
         <item itemvalue="Kotlin.CollectionKt" />
         <item itemvalue="Kotlin.MultidimensiArrayKt" />
-        <item itemvalue="Kotlin._2DimensiArrayKt" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726484260812</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add listOf.kt">
+      <created>1726484384165</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726484384165</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add mutableListOf.kt">
+      <created>1726484691954</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726484691954</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,7 +183,9 @@
     <MESSAGE value="Add 2DimensiArray.kt" />
     <MESSAGE value="Add MultidimensiArray.kt" />
     <MESSAGE value="Add Collection.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Collection.kt" />
+    <MESSAGE value="Add listOf.kt" />
+    <MESSAGE value="Add mutableListOf.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add mutableListOf.kt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
